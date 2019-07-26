@@ -1,0 +1,6 @@
+{
+    "values": [
+        "#lectern.core.impl:enumerate",
+        "#lectern.core.impl:resolve"
+    ]
+}
